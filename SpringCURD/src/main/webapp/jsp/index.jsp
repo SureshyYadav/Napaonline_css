@@ -4,11 +4,11 @@
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
         <title>Online Shopping site</title>
-       <link rel="stylesheet" href="/../jsp/css/bootstrap.css">
-	<link rel="stylesheet" href="/../jsp/css/bootstrap-responsive.css">
+       <link rel="stylesheet" href="../jsp/css/bootstrap.css">
+	<link rel="stylesheet" href="../jsp/css/bootstrap-responsive.css">
 	<!-- <link rel="stylesheet" href="../css/style.css"> -->
-	<link rel="stylesheet" href="/jsp/css/style.css">
-	<script src="/../jsp/js/jquery.min.js"></script>
+	<link rel="stylesheet" href="../jsp/css/style.css">
+	<script src="../jsp/js/jquery.min.js"></script>
     <script src="../jsp/js/bootstrap.js"></script>
     </head>
     <body>     
