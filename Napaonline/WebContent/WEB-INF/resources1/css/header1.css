@@ -1,0 +1,20 @@
+@CHARSET "ISO-8859-1";
+#login{
+	margin: 0px;
+	background-color: black;
+	width: auto;
+	height: 30px;
+	color: black;
+}
+#login ul li{
+display: inline;
+}
+#login ul li a{
+color: white;
+float:right;
+margin-right: 100px;
+
+}
+#login ul li a:HOVER {
+	color:orange;
+}

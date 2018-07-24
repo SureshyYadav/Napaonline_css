@@ -1,0 +1,27 @@
+@CHARSET "ISO-8859-1";
+#header2{
+	margin: 0px;
+	background-color: #001489;
+	width: auto;
+	height: 70px;
+	
+}#header2 ul li{
+	display: inline-table;
+	color:white;
+	text-align: center;
+	float: left;
+	
+}
+
+.abc{
+	height: 70px;
+    width: 50%;
+}
+.cart_image{
+	height: 70px;
+    width: 20%;
+}
+p{
+	padding: 20px;
+}
+ 

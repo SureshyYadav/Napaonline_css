@@ -1,0 +1,44 @@
+#header5{
+	width: auto;
+	margin-left: 50px;
+  margin-right: 50px;
+  background-color:white;
+  height: 50px;
+}
+.custom-select{
+  width: auto;
+  height: 150px;
+  background-color: #001489;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+.custom-select input[type=text] {
+  padding: 11px 80px;
+ /*  margin-top: 2px; */
+  font-size: 17px;
+  border: 1px solid black;
+}
+.custom-select select{
+	padding: 11px 80px;
+  font-size: 17px;
+  border: 1px solid black;
+}
+.custom-select button {
+  /* float: left; */
+  padding: 11px 10px;
+  margin-right: 16px;
+  background: #ffc72c;
+  font-size: 17px;
+  border: 1px solid black;
+  color:blue;
+  cursor: pointer;
+}
+
+.custom-select button:hover {
+  background: #ccc;
+}
+.custom-select p{
+	font-size: 16px;
+	color: white;
+}
+
